@@ -1,0 +1,20 @@
+{
+  "name": "habit-tracker_by-ritek",
+  "version": "1.0.0",
+  "description": "habit tracker app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Ritek Mungali",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^7.4.5",
+    "nodemon": "^3.0.1"
+  }
+}
